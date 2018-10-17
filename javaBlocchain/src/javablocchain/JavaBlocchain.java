@@ -17,8 +17,6 @@ public class JavaBlocchain {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola");
-        //this is a comment
-        System.out.println("Bye");
     }
     
 }
